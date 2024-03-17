@@ -8,3 +8,19 @@
 > $\dfrac{x}{y}$ <br>
 > $X \implies Y$ <br>
 > $\forall \, x \in (1,2)$
+
+```math
+\dfrac{x}{y}
+```
+```math
+\frac{x}{y}
+```
+```math
+$X \implies Y$ 
+```
+```math
+`$X \implies Y$` 
+```
+```math
+$`X \implies Y`$ 
+```
