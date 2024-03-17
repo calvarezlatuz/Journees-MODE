@@ -2,4 +2,5 @@
 
 ![sol OCP](OCP.png "OCP")
 
-* ![sol OCP](sol_OCP.png "Solution OCP")
+* ε = 0.1, α = 0.5
+ ![sol OCP](sol_OCP.png "Solution OCP")
