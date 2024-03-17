@@ -1,8 +1,7 @@
 ### test 1
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
-![sol OCP](sol_OCP.pdf "Solution OCP")
+![sol OCP](sol_OCP.png "Solution OCP")
 
 * test list
 
