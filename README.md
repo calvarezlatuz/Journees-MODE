@@ -9,18 +9,12 @@
 > $X \implies Y$ <br>
 > $\forall \, x \in (1,2)$
 
+$$ \dfrac{x}{y} $$
+$$ \forall \, x \in (1,2) $$
+
 ```math
-\dfrac{x}{y}
+$$X \implies Y$$
 ```
 ```math
-\frac{x}{y}
-```
-```math
-$X \implies Y$ 
-```
-```math
-`$X \implies Y$` 
-```
-```math
-$`X \implies Y`$ 
+$$ X \implies Y $$
 ```
