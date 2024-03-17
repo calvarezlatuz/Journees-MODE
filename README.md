@@ -1,20 +1,5 @@
-### test 1
+### Optimal control problem: Max biodiversity and production
 
+![sol OCP](OCP.png "OCP")
 
-![sol OCP](sol_OCP.png "Solution OCP")
-
-* test list
-
-> $\dfrac{x}{y}$ <br>
-> $X \implies Y$ <br>
-> $\forall \, x \in (1,2)$
-
-$$ \dfrac{x}{y} $$
-$$ \forall \, x \in (1,2) $$
-
-```math
-$$X \implies Y$$
-```
-```math
-$$ X \implies Y $$
-```
+* ![sol OCP](sol_OCP.png "Solution OCP")
